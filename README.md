@@ -3,7 +3,7 @@ BCCC-CIRA-CIC-DoHBrw-2020 -- DOH
 
 https://www.kaggle.com/datasets/supplejade/bccc-cira-cic-dohbrw-2020-dns-over-http
 
-- Checkpoint: 29 April-3 May
+- Checkpoint: 29 April-3 May https://docs.google.com/presentation/d/12BhexyWPI6CW8Veqa7ExNpYOxxYT2yOUz2FK7WsCssY/edit?usp=sharing
 
 - Delivery: 21 May
 
