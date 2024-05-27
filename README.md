@@ -1,7 +1,8 @@
 # Supervised Learning Classifiers Project
 
 ### Running the program
-To run the code, you can use the Jupyter Notebook, with the Anaconda Python Interpreter.
+To run the code, be sure all necessary packets are installed, include tensorflow. It can be installed adding the line ``!pip install tensorflow``.
+You can use the Jupyter Notebook, with the Anaconda Python Interpreter.
 
 ## Contributors
 - Maria Rabelo up202000130
