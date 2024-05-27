@@ -23,6 +23,7 @@ The classifiers implemented were Decision Trees, Random Forests, SGDClassifier, 
 
 ## Cyber-Security Dataset: BCCC-CIRA-CIC-DoHBrw-2020 -- DoH
 ### Dataset Summary
+The dataset was quite large - about 500 thousands entries. 
 Domain over HTTPS (DoH) is a security protocol for the internet that encrypts DNS (Domain Name System) traffic using the HTTPS protocol, enhancing user privacy and security. The dataset includes:
 
 **Traffic Classification**: Classifies traffic as DoH or non-DoH using statistical features and further characterizes DoH traffic as benign or malicious using time-series classification.
