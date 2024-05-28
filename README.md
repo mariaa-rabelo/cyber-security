@@ -1,7 +1,13 @@
 # Supervised Learning Classifiers Project
 
 ### Running the program
-To run the code, be sure all necessary packets are installed, include tensorflow. It can be installed adding the line ``!pip install tensorflow``.
+
+The dataset is quite large (500.000 inputs), thus we could not submit the zipped file in moodle. "O ficheiro 'cyber-security.zip' é muito grande. Apenas pode carregar ficheiros com um tamanho máximo de 50 MB."
+
+For running the code, the full dataset can be downdloaded from https://www.kaggle.com/datasets/supplejade/bccc-cira-cic-dohbrw-2020-dns-over-http . 
+
+Be sure all necessary packets are installed, including tensorflow. It can be installed adding the line ``!pip install tensorflow``.
+
 You can use the Jupyter Notebook, with the Anaconda Python Interpreter.
 
 ## Contributors
